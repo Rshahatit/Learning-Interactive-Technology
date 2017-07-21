@@ -1,2 +1,4 @@
-# Learning-Interactive-Technology-
+# Learning-Interactive-Technology
+
+##LIT
 Cisco Spark Challenge 
